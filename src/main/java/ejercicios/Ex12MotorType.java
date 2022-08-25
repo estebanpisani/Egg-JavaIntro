@@ -30,14 +30,19 @@ public class Ex12MotorType {
         switch (option){
             case 1:
                 motorType = "water pump";
+                break;
             case 2:
                 motorType = "gasoline pump";
+                break;
             case 3:
                 motorType = "concrete pump";
+                break;
             case 4:
                 motorType = "food paste pump";
+                break;
             default:
                 motorType = "";
+                break;
         }
 
         System.out.println("The pump type selected is: "+motorType);

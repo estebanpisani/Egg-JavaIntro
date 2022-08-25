@@ -2,7 +2,7 @@ package ejercicios;
 
 import java.util.Scanner;
 
-public class Ej04Cases {
+public class Ex04Cases {
 
     public static void main(String[] args){
 //        Escribir un programa que pida una frase y la muestre toda en mayúsculas y

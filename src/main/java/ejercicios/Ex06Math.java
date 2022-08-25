@@ -2,7 +2,7 @@ package ejercicios;
 
 import java.util.Scanner;
 
-public class Ej06Math {
+public class Ex06Math {
     public static void main(String[] args){
 //        Escribir un programa que lea un número entero por teclado y muestre por pantalla
 //        el doble, el triple y la raíz cuadrada de ese número. Nota: investigar la función
