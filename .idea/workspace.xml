@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="293dc6b8-188c-4f64-99f6-506e6da0706b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Ej02SumaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Ex02SumTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +47,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Ex21CurrencyConverterTest.euroToPoundTest">
-    <configuration name="Ex21CurrencyConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ejercicios.Ex21CurrencyConverter" />
+  <component name="RunManager" selected="JUnit.Ex22Test.vectorShowTest">
+    <configuration name="Ex22100NumsVector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicios.Ex22100NumsVector" />
       <module name="JavaEgg" />
       <extension name="coverage">
         <pattern>
@@ -59,26 +57,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex21CurrencyConverterTest.currencyConverterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaEgg" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Ex21CurrencyConverterTest" />
-      <option name="METHOD_NAME" value="currencyConverterTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex21CurrencyConverterTest.euroToDollarTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaEgg" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Ex21CurrencyConverterTest" />
-      <option name="METHOD_NAME" value="euroToDollarTest" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -103,13 +81,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex22Test.vectorFillTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaEgg" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Ex22Test" />
+      <option name="METHOD_NAME" value="vectorFillTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex22Test.vectorShowTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaEgg" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Ex22Test" />
+      <option name="METHOD_NAME" value="vectorShowTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Ex22Test.vectorShowTest" />
+        <item itemvalue="JUnit.Ex22Test.vectorFillTest" />
+        <item itemvalue="Application.Ex22100NumsVector" />
         <item itemvalue="JUnit.Ex21CurrencyConverterTest.euroToPoundTest" />
         <item itemvalue="JUnit.Ex21CurrencyConverterTest.euroToYenTest" />
-        <item itemvalue="JUnit.Ex21CurrencyConverterTest.euroToDollarTest" />
-        <item itemvalue="JUnit.Ex21CurrencyConverterTest.currencyConverterTest" />
-        <item itemvalue="Application.Ex21CurrencyConverter" />
       </list>
     </recent_temporary>
   </component>
@@ -147,11 +145,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/ejercicios/Ex21CurrencyConverter.java</url>
           <line>48</line>
           <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ejercicios/Ex21CurrencyConverter.java</url>
-          <line>60</line>
-          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
